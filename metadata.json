@@ -1,0 +1,6 @@
+{
+  "name": "Realmforge — Fantasy Character Generator",
+  "description": "Generate unique fantasy characters with distinct names, classes, lineages, and tabletop attributes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
